@@ -68,6 +68,11 @@ h2 {
     margin-bottom: 5px;
 }
 
+.job .role {
+    font-style: italic;
+    margin: 0 0 5px;
+}
+
 .job ul {
     list-style: disc;
     padding-left: 20px;
